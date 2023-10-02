@@ -3,7 +3,7 @@
 $curl = curl_init();
 
 curl_setopt_array($curl, array(
-  CURLOPT_URL => 'https://server.gallabox.com/devapi/messages/whatsapp',
+  CURLOPT_URL => '',
   CURLOPT_RETURNTRANSFER => true,
   CURLOPT_ENCODING => '',
   CURLOPT_MAXREDIRS => 10,
@@ -12,11 +12,11 @@ curl_setopt_array($curl, array(
   CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
   CURLOPT_CUSTOMREQUEST => 'POST',
   CURLOPT_POSTFIELDS =>'{
-    "channelId": "614b2eb14950f20004022c93",
+    "channelId": "",
     "channelType": "whatsapp",
     "recipient": {
-        "name": "Ganesh Dhumal",
-        "phone": "919271375024"
+        "name": "",
+        "phone": ""
     },
     "whatsapp": {
         "type": "template",
@@ -29,8 +29,8 @@ curl_setopt_array($curl, array(
     }
 }',
   CURLOPT_HTTPHEADER => array(
-    'apiSecret: 9d9787619ace4b16be838a116e969968',
-    'apiKey: 61b2e600733f200004ff85f1',
+    'apiSecret: ',
+    'apiKey: ',
     'Content-Type: application/json'
   ),
 ));

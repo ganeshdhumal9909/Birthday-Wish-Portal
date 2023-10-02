@@ -47,8 +47,8 @@
                             CURLOPT_CUSTOMREQUEST => 'POST',
                             CURLOPT_POSTFIELDS =>$data_string,
                             CURLOPT_HTTPHEADER => array(
-                              'apiSecret: 9d9787619ace4b16be838a116e969968',
-                              'apiKey: 61b2e600733f200004ff85f1',
+                              'apiSecret: ',
+                              'apiKey: ',
                               'Content-Type: application/json'
                             ),
                           ));
@@ -99,7 +99,7 @@
                             CURLOPT_CUSTOMREQUEST => 'POST',
                             CURLOPT_POSTFIELDS =>$data_string,
                             CURLOPT_HTTPHEADER => array(
-                              'apiSecret: 9d9787619ace4b16be838a116e969968',
+                              'apiSecret: ',
                               'apiKey: 61b2e600733f200004ff85f1',
                               'Content-Type: application/json'
                             ),
@@ -150,8 +150,8 @@
                             CURLOPT_CUSTOMREQUEST => 'POST',
                             CURLOPT_POSTFIELDS =>$data_string,
                             CURLOPT_HTTPHEADER => array(
-                              'apiSecret: 9d9787619ace4b16be838a116e969968',
-                              'apiKey: 61b2e600733f200004ff85f1',
+                              'apiSecret: ',
+                              'apiKey: ',
                               'Content-Type: application/json'
                             ),
                           ));
@@ -201,8 +201,8 @@
                             CURLOPT_CUSTOMREQUEST => 'POST',
                             CURLOPT_POSTFIELDS =>$data_string,
                             CURLOPT_HTTPHEADER => array(
-                              'apiSecret: 9d9787619ace4b16be838a116e969968',
-                              'apiKey: 61b2e600733f200004ff85f1',
+                              'apiSecret: ',
+                              'apiKey: ',
                               'Content-Type: application/json'
                             ),
                           ));
@@ -252,8 +252,8 @@
                             CURLOPT_CUSTOMREQUEST => 'POST',
                             CURLOPT_POSTFIELDS =>$data_string,
                             CURLOPT_HTTPHEADER => array(
-                              'apiSecret: 9d9787619ace4b16be838a116e969968',
-                              'apiKey: 61b2e600733f200004ff85f1',
+                              'apiSecret: ',
+                              'apiKey: ',
                               'Content-Type: application/json'
                             ),
                           ));
@@ -304,8 +304,8 @@
                             CURLOPT_CUSTOMREQUEST => 'POST',
                             CURLOPT_POSTFIELDS =>$data_string,
                             CURLOPT_HTTPHEADER => array(
-                              'apiSecret: 9d9787619ace4b16be838a116e969968',
-                              'apiKey: 61b2e600733f200004ff85f1',
+                              'apiSecret: ',
+                              'apiKey: ',
                               'Content-Type: application/json'
                             ),
                           ));
